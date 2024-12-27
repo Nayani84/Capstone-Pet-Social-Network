@@ -36,12 +36,12 @@ ________________________________________
 ________________________________________
 **Approach**
   **Database Schema**
-    * **Users**: id, username, email, password, profile_picture
-    * **Pets**: id, user_id, name, type, age, profile_picture, bio
-    * **Posts**: id, user_id, content, image_url, timestamp
-    * **Comments**: id, post_id, user_id, content, timestamp
-    * **Events**: id, title, description, location, start_time, end_time, created_by
-    * **Likes**: id, post_id, user_id
+   * **Users**: id, username, email, password, profile_picture
+   * **Pets**: id, user_id, name, type, age, profile_picture, bio
+   * **Posts**: id, user_id, content, image_url, timestamp
+   * **Comments**: id, post_id, user_id, content, timestamp
+   * **Events**: id, title, description, location, start_time, end_time, created_by
+   * **Likes**: id, post_id, user_id
 ________________________________________
   **API Issues**
    * External APIs: Handling rate limits and authentication for pet news/event APIs.
