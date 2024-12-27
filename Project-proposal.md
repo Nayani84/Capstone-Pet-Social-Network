@@ -19,9 +19,9 @@ ________________________________________
 ________________________________________
 **Goal**
  * To provide a fun and engaging platform for pet enthusiasts to:
-   1. Share updates and photos of their pets.
-   2. Discover local pet-related events and news.
-   3. Connect with a supportive community of like-minded individuals.
+  1. Share updates and photos of their pets.
+  2. Discover local pet-related events and news.
+  3. Connect with a supportive community of like-minded individuals.
 ________________________________________
 **Users**
  * ***Primary Audience*** : Pet owners and animal lovers looking for a dedicated platform to celebrate their pets.
